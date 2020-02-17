@@ -34,6 +34,8 @@ namespace _4_21
         
         static void Main(string[] args)
         {
+            Source s = new Source();
+            s.Test();
         }
     }
 }
